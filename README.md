@@ -37,26 +37,6 @@ The main objectives of this project are:
 * **Data Analysis**
 
 ---
-
-## 📁 Project Structure
-
-```text
-Coffee-Sales-Report/
-│
-├── Coffee Sales Report.pbix
-├── Dataset/
-│   └── coffee_sales_dataset.csv
-│
-├── Screenshots/
-│   └── dashboard.png
-│
-└── README.md
-```
-
-> **Note:** Add your original dataset and dashboard screenshot to the respective folders before pushing the complete project to GitHub.
-
----
-
 ## 📌 Dashboard Features
 
 The Power BI dashboard includes interactive analysis such as:
@@ -209,7 +189,7 @@ If the dataset is included in the repository:
 
 Add your dashboard screenshot here:
 
-![Coffee Sales Dashboard](Screenshots/dashboard.png)
+![Coffee Sales Dashboard](./coffee_sales.png)
 
 ---
 
